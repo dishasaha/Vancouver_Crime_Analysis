@@ -1,6 +1,6 @@
 # Vancouver_Crime_Analysis
 
-For my final project I was able to find a dataset on Vancouver, CA on Kaggle (Lu, 2019).
+For my final project for class DSC 530,  I was able to find a dataset on Vancouver, CA on Kaggle (Lu, 2019).
 Vancouver is known to be the most populous city in the province of British Columbia, and it has
 the highest population density in all of Canada (Wikipedia, 2020). Therefore, for my final
 project I wanted to find out if Vancouver city was safe? The data set that I used to investigate
