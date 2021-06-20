@@ -39,11 +39,14 @@ month, day, and neighborhood. Due to having such variables I feel confident abou
 histogram plots, CDF, hypothesis testing, and my regression analysis results.
 
 References:
+
 Downey, A. B. (2015). Think Stats. Sebastopol, CA: O’Reilly Media, Inc.
 Lu, k. (2019, November 18). Vancouver Crime Report, Version 2. Retrieved
 from https://www.kaggle.com/agilesifaka/vancouver-crime-report
+
 Lynch, D. (2019, June 3). Weather in Vancouver, B.C.: Climate, Seasons, and Average Monthly
 Temperature. Retrieved from https://www.tripsavvy.com/vancouver-average-monthlytemperatures-
 3371376
+
 Wikipedia. (2020, January 14). Vancouver. Retrieved
 from https://en.wikipedia.org/wiki/Vancouver
